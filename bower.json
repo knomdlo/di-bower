@@ -4,14 +4,13 @@
     "knomdlo"
   ],
   "description": "A sample bower package for DI demo",
-  "main": "main.js",
+  "main": "dist/di-calci.js",
   "keywords": [
     "di-sample"
   ],
   "license": "MIT",
   "homepage": "",
-  "private": true,
-  "ignore": [
+    "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
