@@ -1,0 +1,21 @@
+{
+  "name": "di-bower",
+  "authors": [
+    "knomdlo"
+  ],
+  "description": "A sample bower package for DI demo",
+  "main": "main.js",
+  "keywords": [
+    "di-sample"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
